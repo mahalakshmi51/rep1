@@ -1,5 +1,0 @@
-this is f1 
-my name is maha
-i want to create a files f1 to f4 so i used touch command 
-i want to check the status so i used the command git status filename
-i want to move the working dip to staging area so i used the command git add filename
